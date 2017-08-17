@@ -1,3 +1,6 @@
 [submodule "rack"]
 	path = rack
 	url = git://github.com/chneukirchen/rack.git
+[submodule "libs"]
+	path = libs
+	url = https://github.com/mattbanks/jQuery.equalHeights
