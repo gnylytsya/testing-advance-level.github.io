@@ -7,3 +7,6 @@
 [submodule "src/vendor/symfony"]
 	path = src/vendor/symfony
 	url = git://github.com/fabpot/symfony.git
+[submodule "src/vendor/buzz"]
+	path = src/vendor/buzz
+	url = git://github.com/kriswallsmith/Buzz.git
