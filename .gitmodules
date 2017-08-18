@@ -4,3 +4,6 @@
 [submodule "libs"]
 	path = libs
 	url = https://github.com/mattbanks/jQuery.equalHeights
+[submodule "src/vendor/symfony"]
+	path = src/vendor/symfony
+	url = git://github.com/fabpot/symfony.git
